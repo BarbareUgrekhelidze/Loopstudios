@@ -1,6 +1,6 @@
 # Frontend Mentor - Loopstudios landing page solution
 
-This is a solution to the [Loopstudios landing page challenge on Frontend Mentor](https://github.com/barbare999/Loopstudios.git). Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
+This is a solution to the [Loopstudios landing page challenge on Frontend Mentor](https://github.com/BarbareUgrekhelidze/Loopstudios.git). Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
 
 ## Table of contents
 
@@ -20,8 +20,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/barbare999/Loopstudios.git)
-- Live Site URL: [Add live site URL here](https://barbare999.github.io/Loopstudios/)
+- Solution URL: [Add solution URL here](https://github.com/BarbareUgrekhelidze/Loopstudios.git)
+- Live Site URL: [Add live site URL here](https://BarbareUgrekhelidze.github.io/Loopstudios/)
 
 ## My process
 
@@ -35,5 +35,5 @@ Users should be able to:
 
 ## Author
 
-- Website - [Loopstuidios Landing Page](https://barbare999.github.io/Loopstudios/)
+- Website - [Loopstuidios Landing Page](https://BarbareUgrekhelidze.github.io/Loopstudios/)
 - Frontend Mentor - [@barbareUgrekhelidze](https://www.frontendmentor.io/profile/barbare999)
